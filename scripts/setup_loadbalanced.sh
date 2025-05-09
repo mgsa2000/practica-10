@@ -1,4 +1,4 @@
-#!/bin/
+#!/bin/bash
 
 #Comando para ver la ejecucion y  si hay fallo pare
 set -ex
