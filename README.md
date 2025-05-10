@@ -296,3 +296,5 @@ Solicitamos un cerficado a Let`s Encrypt
 sudo certbot --apache -m $LE_EMAIL --agree-tos --no-eff-email -d $LE_DOMAIN --non-interactive
 ```
  ## Comprobación
+
+ ![](imagenes/111.png)
